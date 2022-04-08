@@ -1,4 +1,5 @@
-# communication-between-two-machines
+## *Virtual box communication*
+## communication-between-two-machines
 - #### Check tht host name with ip address of second virtual machine
 ![image](https://user-images.githubusercontent.com/103019032/162429971-72a0d5db-4fac-4665-aec9-5a1b9714a51f.png)
 - #### Communication between two virtual maching using ssh command with host name and ip address 
