@@ -6,9 +6,15 @@
 ![image](https://user-images.githubusercontent.com/103019032/162429682-3093736e-a36a-4bed-8916-91bee8c16dc6.png)
 ## Import Export and backup of virtual machine
 - #### Create backup using export option from file
-![image](https://user-images.githubusercontent.com/103019032/162432984-ca215c15-7092-405d-9fa8-dda6bcb13834.png)
+![image](https://user-images.githubusercontent.com/103019032/162573417-9c0ac97e-e187-4a6f-ba7f-6167cde5c87d.png)
 - #### Export virtual appliance and provide the path
-![image](https://user-images.githubusercontent.com/103019032/162434250-6230a089-a7d2-4e9f-90cb-600967dd85d9.png)
+![image](https://user-images.githubusercontent.com/103019032/162573476-744ea705-6d99-403d-9b7d-7d9afc45ab22.png)
+- #### Import file from the file option
+![image](https://user-images.githubusercontent.com/103019032/162573525-51fdbbc2-db7f-42a0-bbde-e88394060097.png)
+- #### Please choose a virtual appliance to import
+![image](https://user-images.githubusercontent.com/103019032/162573625-a7f44ee6-13b0-4feb-b7d1-ff7a9d1542da.png)
+Ready for import
+![image](https://user-images.githubusercontent.com/103019032/162573669-7a5961ee-d2cf-4d26-b9d3-9a70d550fbbd.png)
 
 
 
